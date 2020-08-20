@@ -17,7 +17,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: blue;
+  background-color: darkblue;
 }
 
 li {
@@ -37,7 +37,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: rgb(76, 175, 125);
 }
 
 
@@ -75,3 +75,8 @@ th, td {
   padding: 5px;
   text-align: left;
 }
+
+img {
+  display: inline-block;
+}
+
